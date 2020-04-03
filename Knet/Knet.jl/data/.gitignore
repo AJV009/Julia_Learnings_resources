@@ -1,0 +1,11 @@
+cifar/
+fashion-mnist/
+gutenberg/
+housing/
+imagenet/
+imdb/
+mikolovptb/
+mnist/
+nltk/
+treebank/
+wikiner/

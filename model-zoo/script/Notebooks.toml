@@ -1,0 +1,12 @@
+[MNIST]
+path = "vision/mnist"
+notebook = "mlp.jl"
+deps = ["vae.jl"]
+
+[char-rnn]
+path = "text/char-rnn"
+notebook = "char-rnn.jl"
+
+[tutorials]
+path="tutorials"
+notebook="60-minute-blitz.jl"
